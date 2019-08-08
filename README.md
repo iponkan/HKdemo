@@ -1,6 +1,6 @@
 # HKdemo
 
-海康摄像头Android端和Web端摄像头预览代码。
+海康摄像头Android端和Web端使用代码
 
 - Android端提供摄像头预览，调焦，播放等功能
 
